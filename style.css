@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+.title {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Times New Roman', Georgia, garamond;
+    padding: 8px;
+}
+.container {
+    text-align: center;
+    margin: 30px;
+    background-color: #FAEDCD;
+    border: solid black;
+}
+
+.container.list1 {
+    background-color: #FEFAE0;
+    padding: 10px;
+}
+
+.list {
+    list-style: square;
+    display: inline-block;
+    margin: 8px;
+}
